@@ -1,19 +1,18 @@
 # Tasty Bytes Web Traffic Analysis
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
-# 1. Introduction
+# Introduction:
+In today's data-driven business environment, companies strive to leverage analytical insights to improve operational efficiency and drive financial growth. The Tasty Bytes website, a popular platform for sharing and discovering recipes, generates a significant amount of user-generated data. To enhance user engagement and increase website traffic, it is imperative to understand how users interact with the site's content.
 
-In the contemporary landscape of data-centric business strategies, companies are increasingly leveraging analytical insights to enhance their operational efficiency and drive financial growth. This report aims to conduct a comprehensive analysis of user-generated data from the Tasty Bytes website. Our primary objective is to unearth pivotal trends in user engagement with the site's recipe content and identify the recipes that contribute to increased website traffic.
+### Problem Statement:
+Despite the availability of rich user interaction data, Tasty Bytes lacks a clear understanding of which specific factors drive user engagement and contribute to increased website traffic. This lack of insight hinders the ability to optimise content strategy and improve user retention.
 
-### Objectives of This Analysis:
-
-- Develop a predictive model to ascertain which recipes are likely to attract high traffic.
-- Achieve a prediction accuracy rate of at least 80% for identifying high-traffic recipes.
+### Objective:
+The main goal of this project is to utilize data science methods to examine data from the Tasty Bytes website. Our aim is to spot key patterns in user interactions and pinpoint the most favored recipes. This will help us generate practical insights to enhance content and create a predictive model that can accurately identify high-traffic recipes with at least an 80% success rate.
 
 ### Data Sources:
 
-For this endeavor, we will extract data directly from the Tasty Bytes website. The dataset encompasses a variety of metrics, including recipe details, nutritional content (calories, carbohydrates, sugar, protein), culinary category, number of servings, and the high-traffic designation for each recipe.
-
+For this endeavour, we will extract data directly from the Tasty Bytes website. The dataset encompasses a variety of metrics, including recipe details, nutritional content (calories, carbohydrates, sugar, protein), culinary category, number of servings, and the high-traffic designation for each recipe.
 
 ### GitHub Project Repository :
 * [Tasty Bytes web traffic Analysis](https://github.com/SaliuA/ShopSmart_Customer_analysis)
